@@ -29,8 +29,6 @@
 
 Databricks的Dolly是一种基于Databricks机器学习平台训练的指令跟随型大型语言模型，可用于商业目的的许可。Dolly基于pythia-12b进行训练，使用了来自InstructGPT论文中的能力领域的约15,000个指令/回应细调记录（databricks-dolly-15k），包括头脑风暴、分类、闭合型问答、生成、信息提取、开放型问答和摘要等。虽然dolly-v2-12b并不是最先进的模型，但它展现出了出乎意料的高质量指令跟随行为，这与其基于的基础模型特性不同。
 
-Databricks致力于确保每个组织和个人都能从人工智能的变革力量中受益。Dolly模型系列代表着我们在这一旅程中迈出的第一步，我们很高兴将这项技术与世界分享。
-
 
 ## 地址
 
@@ -77,4 +75,16 @@ ChatGLM-6B 是一个开源的、支持中英双语的对话语言模型，基于
 
 <https://github.com/BlinkDL/RWKV-LM/#training--fine-tuning>
 
+
+# Bayling
+
+
+## 简介
+
+BayLing是一款配备先进语言对齐技术的指令跟随型大型语言模型，在英语/汉语生成、指令跟随和多轮交互方面展现出卓越的能力。
+
+
+## 地址
+
+<https://github.com/ictnlp/BayLing>
 
